@@ -2,9 +2,9 @@
 
 ## Narrativa
 
-Eres una persona muy activa que va a muchos eventos de programación y también disfruta de la vida social. Tu calendario está lleno y tu energía social tiene un límite.
+Madrid me va a matar: Tu calendario está lleno... y lo que pensaba que era infinito (mi energía social) estoy descubriendo que tiene un límite.
 
-Esta semana tienes un montón de planes posibles: meetups, afterworks, vermús, descansos necesarios... ¿Cómo organizarás la semana sin petar?
+Esta semana tienes un montón de planes posibles: meetups, afterworks, vermús, descansos necesarios... ¿Cómo me organizarás la semana sin que pete?
 
 ## Objetivo
 
