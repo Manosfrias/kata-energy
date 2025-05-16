@@ -2,13 +2,13 @@
 
 ## Narrativa
 
-Madrid me va a matar: Tu calendario está lleno... y lo que pensaba que era infinito (mi energía social) estoy descubriendo que tiene un límite.
+Madrid me va a matar: Mi calendario está lleno... y lo que pensaba que era infinito (mi energía social) estoy descubriendo que tiene un límite.
 
-Esta semana tienes un montón de planes posibles: meetups, afterworks, vermús, descansos necesarios... ¿Cómo me organizarás la semana sin que pete?
+Esta semana tengo un montón de planes posibles: meetups, afterworks, vermús,... ¡Incluso he planeado, a lo loco, algo de descanso! ¿Cómo me organizarás la semana sin que pete?
 
 ## Objetivo
 
-Implementa la función `planWeek(events: Event[]): Event[]` que decida qué eventos aceptar para equilibrar energía, prioridades y descanso.
+Implementa la función `planWeek(events: Event[])` que decida qué eventos aceptar para equilibrar energía, prioridades y descanso.
 
 ## Datos base
 
@@ -22,16 +22,3 @@ Tienes esta lista de eventos con duración, tipo, coste energético, prioridad y
 4. Prioriza eventos con prioridad ≥ 8.
 5. Si hay empate en prioridad, prioriza menor coste energético.
 
-## Ejecución
-
-- Corre `npm install` para instalar dependencias.
-- Ejecuta `npm test` para correr los tests.
-- Implementa la función en `src/planWeek.ts`.
-
-## ¿Qué aprenderás?
-
-- A hacer TDD con criterios reales.
-- A manejar restricciones y prioridades.
-- A planificar soluciones iterativas.
-
-## ¡A divertirse y planificar la mejor semana posible!
