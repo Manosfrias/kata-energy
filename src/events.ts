@@ -8,4 +8,6 @@ export const events = [
   { name: "Charla de arquitectura de software", type: "tech", duration: 1, energyCost: 4, priority: 6, day: "Saturday" },
   { name: "Expo en CentroCentro", type: "rest", duration: 4, energyCost: 0, priority: 10, day: "" },
   { name: "Katayuno o Charla sobre Grecia (you never know)", type: "tech", duration: 4, energyCost: 10, priority: 5, day: "" },
+  { name: "Ir a Odio a todo el mundo", type: "social", duration: 2, energyCost: 3, priority: 6, day: "Tuesday" },
+  { name: "Perrear hasta abajo", type: "social", duration: 10, energyCost: 10, priority: 9, day: "" },
 ];
